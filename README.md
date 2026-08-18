@@ -10,6 +10,9 @@ Features include:
 - an app that contains the books and movies I am currently interested in
 - the ability to drag, open, and close windows
 - a navigation bar including app opening icons and the time which updates every second
+- a password protected lock screen
+- a terminal
+- file explorer with sub-files
 
 The content is all written in HTML, styled in CSS, and functionalities such as draggable windows, updating time, and open/close functions are all designed in Javascript. The web is then hosted on Git Pages.
 

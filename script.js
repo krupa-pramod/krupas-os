@@ -117,7 +117,7 @@ picsFolder.addEventListener("click", function() {
     closeWindow(files);
 })
 
-document.querySelector("#lockopen").addEventListener("click",function() {window.location.href = "lock.html";})
+document.querySelector("#lockopen").addEventListener("click",function() {window.location.href = "index.html";})
 const lockIn = document.querySelector("#lock-input")
 
 
